@@ -25,7 +25,9 @@ SECRET_KEY = '$q4b@q4i8)hwo1$thpjx)5p(ui-nwwt9l8x#!mfa)u^wo8b=*r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    tynka.pythonanywhere.com
+]
 
 
 # Application definition
