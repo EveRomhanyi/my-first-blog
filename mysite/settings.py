@@ -26,7 +26,7 @@ SECRET_KEY = '$q4b@q4i8)hwo1$thpjx)5p(ui-nwwt9l8x#!mfa)u^wo8b=*r'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    tynka.pythonanywhere.com
+    'tynka.pythonanywhere.com'
 ]
 
 
